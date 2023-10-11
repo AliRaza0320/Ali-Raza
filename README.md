@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" alt="coding">
